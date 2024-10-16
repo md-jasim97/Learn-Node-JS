@@ -1,0 +1,13 @@
+{
+  "name": "module-5-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class-02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node class-03.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
